@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Demo Table 01" language="en" table="x_eyan_spt_five_demo_table_01">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Demo Table 01</label>
+            <language>en</language>
+            <name>x_eyan_spt_five_demo_table_01</name>
+            <plural>Demo Table 01s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
+            <sys_created_on>2023-10-13 10:03:55</sys_created_on>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Demo Table 01</sys_name>
+            <sys_package display_value="SPT Five" source="x_eyan_spt_five">4b46509e8771f110b32b32290cbb354f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SPT Five">4b46509e8771f110b32b32290cbb354f</sys_scope>
+            <sys_update_name>sys_documentation_x_eyan_spt_five_demo_table_01__en</sys_update_name>
+            <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
+            <sys_updated_on>2023-10-13 10:03:55</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
