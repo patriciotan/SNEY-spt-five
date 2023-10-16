@@ -29,7 +29,7 @@
         <role_conditions/>
         <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
 
-	// Add your code here
+	// Comment added by Developer 02
 
 })(current, previous);]]></script>
         <sys_class_name>sys_script</sys_class_name>
@@ -38,15 +38,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>5e7cbda687f53510b32b32290cbb35d8</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_name>businessRule_01</sys_name>
         <sys_overrides/>
         <sys_package display_value="SPT Five" source="x_eyan_spt_five">4b46509e8771f110b32b32290cbb354f</sys_package>
         <sys_policy/>
         <sys_scope display_value="SPT Five">4b46509e8771f110b32b32290cbb354f</sys_scope>
         <sys_update_name>sys_script_5e7cbda687f53510b32b32290cbb35d8</sys_update_name>
-        <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
-        <sys_updated_on>2023-10-13 11:35:49</sys_updated_on>
+        <sys_updated_by>maarten.koster</sys_updated_by>
+        <sys_updated_on>2023-10-16 11:27:25</sys_updated_on>
         <template/>
         <when>before</when>
     </sys_script>
