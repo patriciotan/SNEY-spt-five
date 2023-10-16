@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sysauto_script">
+    <sysauto_script action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <business_calendar/>
+        <condition/>
+        <conditional>false</conditional>
+        <entered_time>1970-01-01 00:00:00</entered_time>
+        <max_drift/>
+        <name>scheduledJob_02</name>
+        <offset/>
+        <offset_type>0</offset_type>
+        <run_as display_value="Maarten Koster">4160fe37878ced50b32b32290cbb358e</run_as>
+        <run_as_tz/>
+        <run_dayofmonth>1</run_dayofmonth>
+        <run_dayofweek>1</run_dayofweek>
+        <run_period/>
+        <run_start>2023-10-16 09:23:13</run_start>
+        <run_time>1969-12-31 23:00:00</run_time>
+        <run_type>on_demand</run_type>
+        <script><![CDATA[// Comment added by Developer 01]]></script>
+        <sys_class_name>sysauto_script</sys_class_name>
+        <sys_created_by>sean.patrick.t.tan@gds.ey.com</sys_created_by>
+        <sys_created_on>2023-10-16 11:30:00</sys_created_on>
+        <sys_id>651815e787b13910b32b32290cbb3577</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scheduledJob_02</sys_name>
+        <sys_package display_value="SPT Five" source="x_eyan_spt_five">4b46509e8771f110b32b32290cbb354f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SPT Five">4b46509e8771f110b32b32290cbb354f</sys_scope>
+        <sys_update_name>sysauto_script_651815e787b13910b32b32290cbb3577</sys_update_name>
+        <sys_updated_by>sean.patrick.t.tan@gds.ey.com</sys_updated_by>
+        <sys_updated_on>2023-10-16 11:30:00</sys_updated_on>
+        <time_zone/>
+        <upgrade_safe>false</upgrade_safe>
+    </sysauto_script>
+</record_update>
