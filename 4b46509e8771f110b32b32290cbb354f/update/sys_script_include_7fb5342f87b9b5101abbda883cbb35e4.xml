@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_eyan_spt_five.scriptInclude_02</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>scriptInclude_02</name>
+        <script><![CDATA[var scriptInclude_02 = Class.create();
+scriptInclude_02.prototype = {
+    initialize: function() {
+		// Comment added by Developer 02
+    },
+
+    type: 'scriptInclude_02'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>maarten.koster</sys_created_by>
+        <sys_created_on>2023-10-16 09:00:29</sys_created_on>
+        <sys_id>7fb5342f87b9b5101abbda883cbb35e4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>scriptInclude_02</sys_name>
+        <sys_package display_value="SPT Five" source="x_eyan_spt_five">4b46509e8771f110b32b32290cbb354f</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SPT Five">4b46509e8771f110b32b32290cbb354f</sys_scope>
+        <sys_update_name>sys_script_include_7fb5342f87b9b5101abbda883cbb35e4</sys_update_name>
+        <sys_updated_by>maarten.koster</sys_updated_by>
+        <sys_updated_on>2023-10-16 09:00:29</sys_updated_on>
+    </sys_script_include>
+</record_update>
